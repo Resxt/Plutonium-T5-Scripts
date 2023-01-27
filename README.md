@@ -8,24 +8,16 @@ This is a collection of [Plutonium](https://plutonium.pw/docs/intro/) T5/BO1 scr
 
 Huge thanks to everyone who helped me learn GSC: Birchy, DoktorSAS, FutureRave and other people on Discord.
 
+
 ## How do I download a script?
 
-Click on a `.gsc` file and click on `Raw`.
-<details>
-  <summary>Image</summary>
-  
-  ![image](https://user-images.githubusercontent.com/55228336/153304575-9ee2e2ae-9bcf-437a-a2f1-cc65087f238f.png)
-  ![image](https://user-images.githubusercontent.com/55228336/153305132-3405c97a-9ad4-49fe-b764-5fdb1e194386.png)
-</details>
+- [Download this repository](https://github.com/Resxt/Plutonium-T5-Scripts/archive/refs/heads/master.zip)
+- Open the downloaded ZIP file
+- Drag and drop the script(s) you want in the folder they need to be placed in.  
+If no instructions are provided for the script you want then simply follow the instructions given in [How do I use a script?](#how-do-i-use-a-script)
 
-Right click anywhere and click on `Save page as` (or an equivalent).  
-
-Make sure to put `All` or `Any` for the file type and to add `.gsc` at the end of the file name.
-<details>
-  <summary>Image</summary>
-  
-  ![image](https://user-images.githubusercontent.com/55228336/153305302-2bb87264-2ec5-4ea5-ac70-0e96b61ab2f7.png)
-</details>
+Just keep in mind that this downloads a copy of this repository at the moment you download it.  
+If a script is updated after you downloaded this repository and you want the new version then you will need to download this repository again.
 
 ## How do I use a script?
 
