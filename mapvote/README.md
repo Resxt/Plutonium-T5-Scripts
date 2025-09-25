@@ -103,7 +103,7 @@ Here are some pre-set values if you want to quickly copy/paste something
 | All base game maps | "Array:Cracked:Crisis:Firing Range:Grid:Hanoi:Havana:Jungle:Launch:Nuketown:Radiation:Summit:Villa:WMD" |
 | All DLC maps | "Berlin Wall:Discovery:Kowloon:Stadium:Convoy:Hotel:Stockpile:Zoo:Drive-in:Hangar 18:Hazard:Silo" |
 | Classic modes | "Team Deathmatch,tdm:Domination,dom" |
-| Objective modes | "Demolition,dem:Headquaters,hq:Sabotage,sab:Capture the Flag,ctf" |
+| Objective modes | "Demolition,dem:Headquaters,koth:Sabotage,sab:Capture the Flag,ctf" |
 | Alternative modes | "Kill Confirmed,conf:One Flag CTF,oneflag" |
 | Party modes | "Gun Game,gun:One in the Chamber,oic:Sharpshooter,shrp:Sticks & Stones,hlnd" |
 | FFA 24/7 | "Free for All,dm" |
